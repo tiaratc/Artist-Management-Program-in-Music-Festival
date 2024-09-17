@@ -1,12 +1,12 @@
-#**Py Music Festival 2024 - Schedule Management Program**
+# **Py Music Festival 2024 - Schedule Management Program**
 
-##Overview
+## Overview
 
-This project is create a Python program made to help organize and manage performance schedules for music festivals. It helps speed up the manual process of checking that artists and group members are not scheduled for shows that happen at the same time.
+This project is to create a Python program made to help organize and manage performance schedules for music festivals. It helps speed up the manual process of checking that artists and group members are not scheduled for shows that happen at the same time.
 
 The program lets users add, view, update, delete, and check for conflicts in show schedules. It’s based on real challenges I faced while managing events with many artists.
 
-##Features
+## Features
 
 	1.	Add Show
 		Users can add new shows with information like the group name, members, day, time, and hall. The program checks for duplicates and ensures the input is correct (e.g., time format).
@@ -19,17 +19,17 @@ The program lets users add, view, update, delete, and check for conflicts in sho
 	5.	Check for Conflicts
 		The program checks if any group or member has overlapping shows at the same time. This helps avoid scheduling problems.
 
-##Tools and Libraries Used
+## Tools and Libraries Used
 
 	•	Tabulate: Displays show information in a clear table format.
 	•	Colorama & Termcolor: Adds color to prompts and messages, making the app easier to use.
 	•	PyInputPlus: Ensures safe and correct input from users.
 
-##How to Use
+## How to Use
 
-	1.	Login: The app has two roles: Admin and Regular. Admins can do everything (add, view, update, delete shows, and check conflicts), while Regular users can only view shows and check for conflicts.
+	1.	Login: The app has two roles: Admin and Regular. Admins require password, while Regular users don't need a password and can be accessed by anyone with the program.
 	2.	Menu: Admin users can add, view, update, delete shows, and check for conflicts. Regular users can only view shows and check for conflicts.
 
-##Real-World Inspiration
+## Real-World Inspiration
 
 This project is based on my experience managing music festivals, where hundreds of artists perform over several days in lots of different stages. The program helps prevent conflicts in the schedule and makes event planning smoother and easier.
