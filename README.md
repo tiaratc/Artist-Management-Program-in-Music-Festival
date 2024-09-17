@@ -1,4 +1,5 @@
-Py Music Festival 2024 - Show Management App
+**Py Music Festival 2024 - Schedule Management Program
+**
 
 Overview
 
@@ -32,4 +33,4 @@ How to Use
 
 Real-World Inspiration
 
-This project is based on my experience managing music festivals, where hundreds of artists perform over several days in different halls. The app helps prevent conflicts in the schedule and makes event planning smoother and easier.
+This project is based on my experience managing music festivals, where hundreds of artists perform over several days in lots of different stages. The program helps prevent conflicts in the schedule and makes event planning smoother and easier.
