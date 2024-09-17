@@ -30,6 +30,6 @@ The program lets users add, view, update, delete, and check for conflicts in sho
 	1.	Login: The app has two roles: Admin and Regular. Admins require password, while Regular users don't need a password and can be accessed by anyone with the program.
 	2.	Menu: Admin users can add, view, update, delete shows, and check for conflicts. Regular users can only view shows and check for conflicts.
 
-## Real-Case Inspiration
+## Real-World Inspiration
 
 This project is based on my experience managing music festivals, where hundreds of artists perform over several days in lots of different stages. The program helps prevent conflicts in the schedule and makes event planning smoother and easier.
