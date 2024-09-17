@@ -29,7 +29,6 @@ How to Use
 
 	1.	Login: The app has two roles: Admin and Regular. Admins can do everything (add, view, update, delete shows, and check conflicts), while Regular users can only view shows and check for conflicts.
 	2.	Menu: Admin users can add, view, update, delete shows, and check for conflicts. Regular users can only view shows and check for conflicts.
-	3.	Conflict Checking: Use this feature to make sure no group or member is double-booked or has overlapping shows.
 
 Real-World Inspiration
 
