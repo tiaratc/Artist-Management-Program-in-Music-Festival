@@ -1,9 +1,8 @@
-**Py Music Festival 2024 - Schedule Management Program
-**
+Py Music Festival 2024 - Schedule Management Program
 
 Overview
 
-This project is a simple Python program made to help organize and manage performance schedules for music festivals. It helps speed up the manual process of checking that artists and group members are not scheduled for shows that happen at the same time.
+This project is create a Python program made to help organize and manage performance schedules for music festivals. It helps speed up the manual process of checking that artists and group members are not scheduled for shows that happen at the same time.
 
 The program lets users add, view, update, delete, and check for conflicts in show schedules. It’s based on real challenges I faced while managing events with many artists.
 
