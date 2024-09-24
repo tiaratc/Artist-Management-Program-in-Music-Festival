@@ -1,4 +1,4 @@
-[3.pdf](https://github.com/user-attachments/files/17109320/3.pdf)## **Artist Management Program in Music Festival**
+## **Artist Management Program in Music Festival**
 
 
 This project is to create a Python program made to help organize and manage artist’s schedule in a music festival. The program lets users add, view, update, delete, and check potential conflicts in show schedules. 
