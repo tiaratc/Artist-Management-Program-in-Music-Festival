@@ -1,4 +1,4 @@
-[Flowchart - FULL.pdf](https://github.com/user-attachments/files/17108934/Flowchart.-.FULL.pdf)# **Artist Management Program in Music Festival**
+[3.pdf](https://github.com/user-attachments/files/17109320/3.pdf)## **Artist Management Program in Music Festival**
 
 
 This project is to create a Python program made to help organize and manage artist’s schedule in a music festival. The program lets users add, view, update, delete, and check potential conflicts in show schedules. 
@@ -6,12 +6,6 @@ This project is to create a Python program made to help organize and manage arti
 It is based on real challenges I faced while managing events with many performances, which doing the above manually takes a significant amount of time.
 
 This program will help speed up the manual process of checking every artists and group members, while also making sure all of them are not scheduled for shows that happen at the same time.
-
-
-## Requirements
-
-
-
 
 ## Features
 
@@ -34,27 +28,18 @@ This program will help speed up the manual process of checking every artists and
 
 ![1](https://github.com/user-attachments/assets/2ce70496-4a79-4d68-8efc-8c9e0c4104b7)
 
+![2](https://github.com/user-attachments/assets/f1180b3e-5029-4c84-8ee1-c2329b9156eb)
+
+![3](https://github.com/user-attachments/assets/c6c5847a-392b-4a66-adbb-53845b9652df)
+
+![4](https://github.com/user-attachments/assets/d24048a5-2077-4199-bc18-308bdfa1ca4b)
+
+![5](https://github.com/user-attachments/assets/73588584-c479-4d7e-87a3-1ac963a9d471)
+
+![6](https://github.com/user-attachments/assets/775e4e8d-7fb6-484a-b2c7-df149b4cef27)
+
+![7](https://github.com/user-attachments/assets/9a1b273b-cfac-44a6-ae13-37e8a0bc0400)
+
+![8](https://github.com/user-attachments/assets/69c65bc9-8317-42a1-b805-3d5eaea96092)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
